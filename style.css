@@ -1,0 +1,54 @@
+#main{
+    top: 0px;
+}
+#head{
+    top: 0px;
+    height: 100px;
+    width: 100%;
+    background: aqua;
+}
+
+#head-link{
+    height: 50px;
+    width: 100%;
+    background: antiquewhite;
+}
+
+#left{
+    height: 500px;
+    width: 20%;
+    background: red;
+    float: left;
+}
+
+#content{
+    height: 500px;
+    width: 60%;
+    background: blue;
+    float: left;
+}
+#right{
+    height: 500px;
+    width: 20%;
+    background: coral;
+    float: left;
+}
+#footer{
+    height: 50px;
+    width: 100%;
+    background: darkgreen;
+    clear: both;
+}
+
+.news{
+    top: 10px;
+    left: 10px;
+    height: 150px;
+    width: 30%;
+    margin: 5px;
+    border: black;
+    float: left;
+    background: white;
+    position: relative;
+}
+
